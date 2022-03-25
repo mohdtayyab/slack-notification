@@ -6,3 +6,4 @@ Hello
 Hi
 Another Testing 
 CLoud Watch Rule updated
+Alarm is created for it
